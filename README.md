@@ -13,4 +13,6 @@ Bibliotecas adicionais (Requerem instalação):
 
 Comando para instalar:
 pip install pillow numpy scikit-image imagehash
------------ Abra o cmd, copie essa linha acima, cole e dê enter.
+
+-----------
+Abra o cmd, copie essa linha acima, cole e dê enter.
